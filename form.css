@@ -1,0 +1,124 @@
+.kotak {
+    width: 1280px;
+    height: 600px;
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.gelombang {
+    margin-top: 65px;
+    margin-left: -10px;
+}
+.kanan {
+    background-color: white;
+    height: 600px;
+    border-radius: 0px 10px 10px 0px;
+    padding: 20px;
+}
+
+.kiri {
+    background-color: #263A29;
+    height: 600px;
+    border-radius: 10px 0px 0px 10px;
+    padding: 20px;
+}
+
+.judul {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.kata {
+    margin-top: 70px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.pesan {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.tombol {
+    color: white;
+    background-color: #41644A;
+}
+
+.tombol:hover {
+    color: white;
+    background-color: #515E63;
+}
+
+.gelombang {
+    margin-top: 57px;
+    margin-left: -20px;
+}
+
+.form {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+@media (min-width: 1400px) {
+                .kotak {
+                    width: 1350px;
+                    height: 600px;
+                    margin-top: 80px;
+                    margin-left: 40px;
+                    margin-right: 40px;
+                    background-color: white;
+                    border-radius: 20px 20px 20px 20px;
+                }
+        
+                .kanan {
+                    background-color: white;
+                    height: 600px;
+                    border-radius: 0px 10px 10px 0px;
+                    padding: 20px;
+                }
+        
+                .kiri {
+                    background-color: #263A29;
+                    height: 600px;
+                    border-radius: 10px 0px 0px 10px;
+                    padding: 20px;
+                }
+        
+                .judul {
+                    margin-left: 50px;
+                    font-weight: bold;
+                }
+        
+                .kata {
+                    margin-top: 70px;
+                    margin-left: 40px;
+                    font-weight: bold;
+                }
+        
+                .pesan {
+                    margin-top: 20px;
+                    margin-left: 40px;
+                }
+        
+                .tombol {
+                    color: white;
+                    background-color: #41644A;
+                }
+        
+                .tombol:hover {
+                    color: white;
+                    background-color: #515E63;
+                }
+        
+                .gelombang {
+                    margin-top: 57px;
+                    margin-left: -20px;
+                }
+        
+                .form {
+                    margin-left: 70px;
+                    margin-top: 20px;
+                }
+}
